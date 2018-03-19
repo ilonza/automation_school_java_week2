@@ -6,7 +6,7 @@ package edu.ctco.school.exercise2;
  * What are the options in this particular case?
  */
 class Exercise2 {
-    private int i;
+    private int i; //no, because its private
 }
 
 class SubExercise2 extends Exercise2 {
